@@ -1,0 +1,6 @@
+{
+  "name": "Hill Climb Racing Companion",
+  "description": "An interactive guide, upgrade calculator, and fun 2D physics hill climbing game inspired by Hill Climb Racing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
